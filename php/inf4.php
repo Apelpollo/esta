@@ -51,22 +51,19 @@
                                         <h2 class="fs-5">we will talk about how do you feeling</h2>
                                         <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
                                             title="Popover title"
-                                            data-bs-content="Popover body content is set in this attribute.">sp
-                                            contento</a>
+                                            data-bs-content="Popover body content is set in this attribute.">Proud</a>
                                         <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
                                             title="Popover title"
-                                            data-bs-content="Popover body content is set in this attribute.">sp hiper
-                                            contento</a>
+                                            data-bs-content="Popover body content is set in this attribute.">Accepted</a>
                                         <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
                                             title="Popover title"
-                                            data-bs-content="Popover body content is set in this attribute.">button</a>
+                                            data-bs-content="Popover body content is set in this attribute.">powerful</a>
                                         <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
                                             title="Popover title"
-                                            data-bs-content="Popover body content is set in this attribute.">button</a>
+                                            data-bs-content="Popover body content is set in this attribute.">Peaceful</a>
                                         <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
                                             title="Popover title"
-                                            data-bs-content="Popover body content is set in this attribute.">soy la mas
-                                            feliz alv</a>
+                                            data-bs-content="Popover body content is set in this attribute.">Joyful</a>
                                         <hr>
                                     </div>
                                     <div class="mb-3">
@@ -74,8 +71,8 @@
                                         <textarea class="form-control" id="message-text"></textarea>
                                     </div>
                                     <div class="modal-footer">
-                                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
-                                        <button type="button" class="btn btn-primary">Aceptar</button>
+                                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                                        <button type="button" class="btn btn-primary">Accept</button>
                                     </div>
                                 </div>
                             </div>
@@ -108,15 +105,22 @@
                                         <h2 class="fs-6">we will talk about how do you feeling</h2>
                                         <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
                                             title="Popover title"
-                                            data-bs-content="Popover body content is set in this attribute.">asutadito</a>
+                                            data-bs-content="Popover body content is set in this attribute.">Insecure</a>
                                         <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
                                             title="Popover title"
-                                            data-bs-content="Popover body content is set in this attribute.">sp
-                                            asutadito</a>
+                                            data-bs-content="Popover body content is set in this attribute.">Humiliated</a>
                                         <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
                                             title="Popover title"
-                                            data-bs-content="Popover body content is set in this attribute.">sp hiper
-                                            asistadito</a>
+                                            data-bs-content="Popover body content is set in this attribute.">Scared</a>
+                                            <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
+                                            title="Popover title"
+                                            data-bs-content="Popover body content is set in this attribute.">Anxious</a>
+                                            <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
+                                            title="Popover title"
+                                            data-bs-content="Popover body content is set in this attribute.">Submissive</a>
+                                            <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
+                                            title="Popover title"
+                                            data-bs-content="Popover body content is set in this attribute.">Rejected</a>
                                         <hr>
                                     </div>
                                     <div class="mb-3">
@@ -124,8 +128,8 @@
                                         <textarea class="form-control" id="message-text"></textarea>
                                     </div>
                                     <div class="modal-footer">
-                                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
-                                        <button type="button" class="btn btn-primary">Aceptar</button>
+                                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                                        <button type="button" class="btn btn-primary">Accept</button>
                                     </div>
                                 </div>
                             </div>
@@ -159,15 +163,19 @@
                                         <h2 class="fs-6">we will talk about how do you feeling</h2>
                                         <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
                                             title="Popover title"
-                                            data-bs-content="Popover body content is set in this attribute.">awitado</a>
+                                            data-bs-content="Popover body content is set in this attribute.">Bored</a>
                                         <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
                                             title="Popover title"
-                                            data-bs-content="Popover body content is set in this attribute.">sp
-                                            awitado</a>
+                                            data-bs-content="Popover body content is set in this attribute.">Guilty</a>
                                         <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
                                             title="Popover title"
-                                            data-bs-content="Popover body content is set in this attribute.">sp hiper
-                                            awitado</a>
+                                            data-bs-content="Popover body content is set in this attribute.">Lonely</a>
+                                            <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
+                                            title="Popover title"
+                                            data-bs-content="Popover body content is set in this attribute.">Despair</a>
+                                            <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
+                                            title="Popover title"
+                                            data-bs-content="Popover body content is set in this attribute.">Abandoned</a>
                                         <hr>
                                     </div>
                                     <div class="mb-3">
@@ -175,8 +183,8 @@
                                         <textarea class="form-control" id="message-text"></textarea>
                                     </div>
                                     <div class="modal-footer">
-                                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
-                                        <button type="button" class="btn btn-primary">Aceptar</button>
+                                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                                        <button type="button" class="btn btn-primary">Accept</button>
                                     </div>
                                 </div>
                             </div>
@@ -209,15 +217,19 @@
                                         <h2 class="fs-6">here you can chose the branch of your emotions</h2>
                                         <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
                                             title="Popover title"
-                                            data-bs-content="Popover body content is set in this attribute.">emputado</a>
+                                            data-bs-content="Popover body content is set in this attribute.">Mad</a>
                                         <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
                                             title="Popover title"
-                                            data-bs-content="Popover body content is set in this attribute.">sp
-                                            emputado</a>
+                                            data-bs-content="Popover body content is set in this attribute.">Critical</a>
                                         <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
                                             title="Popover title"
-                                            data-bs-content="Popover body content is set in this attribute.">sp hiper
-                                            emputado</a>
+                                            data-bs-content="Popover body content is set in this attribute.">Hurt</a>
+                                            <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
+                                            title="Popover title"
+                                            data-bs-content="Popover body content is set in this attribute.">Critical</a>
+                                            <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
+                                            title="Popover title"
+                                            data-bs-content="Popover body content is set in this attribute.">Aggressive</a>
                                         <hr>
                                     </div>
                                     <div class="mb-3">
@@ -225,8 +237,8 @@
                                         <textarea class="form-control" id="message-text"></textarea>
                                     </div>
                                     <div class="modal-footer">
-                                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
-                                        <button type="button" class="btn btn-primary">Enviar</button>
+                                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                                        <button type="button" class="btn btn-primary">Accept</button>
                                     </div>
                                 </div>
                             </div>
@@ -260,15 +272,17 @@
                                         <h2 class="fs-6">we will talk about how do you feeling</h2>
                                         <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
                                             title="Popover title"
-                                            data-bs-content="Popover body content is set in this attribute.">iugh</a>
+                                            data-bs-content="Popover body content is set in this attribute.">Disapproval</a>
                                         <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
                                             title="Popover title"
-                                            data-bs-content="Popover body content is set in this attribute.">sp
-                                            wakala</a>
+                                            data-bs-content="Popover body content is set in this attribute.">Disappointed</a>
                                         <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
                                             title="Popover title"
-                                            data-bs-content="Popover body content is set in this attribute.">sp hiper
-                                            wakala guaa</a>
+                                            data-bs-content="Popover body content is set in this attribute.">Awful</a>
+                                            <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
+                                            title="Popover title"
+                                            data-bs-content="Popover body content is set in this attribute.">Avoidance</a>
+                                            
                                         <hr>
                                     </div>
                                     <div class="mb-3">
@@ -276,8 +290,8 @@
                                         <textarea class="form-control" id="message-text"></textarea>
                                     </div>
                                     <div class="modal-footer">
-                                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
-                                        <button type="button" class="btn btn-primary">Aceptar</button>
+                                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                                        <button type="button" class="btn btn-primary">Accept</button>
                                     </div>
                                 </div>
                             </div>
@@ -311,15 +325,16 @@
                                         <h2 class="fs-6">we will talk about how do you feeling</h2>
                                         <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
                                             title="Popover title"
-                                            data-bs-content="Popover body content is set in this attribute.">ALA
-                                            WAKALLL</a>
+                                            data-bs-content="Popover body content is set in this attribute.">Startled</a>
                                         <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
                                             title="Popover title"
-                                            data-bs-content="Popover body content is set in this attribute.">DIOSMIOOOO</a>
+                                            data-bs-content="Popover body content is set in this attribute.">Confused</a>
                                         <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
                                             title="Popover title"
-                                            data-bs-content="Popover body content is set in this attribute.">LO VEO Y NO
-                                            LO CREO</a>
+                                            data-bs-content="Popover body content is set in this attribute.">Amazed</a>
+                                            <a href="#" role="button" class="btn btn-secondary" data-bs-toggle="popover"
+                                            title="Popover title"
+                                            data-bs-content="Popover body content is set in this attribute.">Excited</a>
                                         <hr>
                                     </div>
                                     <div class="mb-3">
@@ -327,8 +342,8 @@
                                         <textarea class="form-control" id="message-text"></textarea>
                                     </div>
                                     <div class="modal-footer">
-                                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
-                                        <button type="button" class="btn btn-primary">Aceptar</button>
+                                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                                        <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Accept</button>
                                     </div>
                                 </div>
                             </div>

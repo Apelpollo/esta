@@ -45,7 +45,7 @@
 
         <div class="options__menu">	
 
-            <a href="../Amenu.php"class="selected" title="Home">
+            <a href="Amenu.php"class="selected" title="Home">
                 <div class="option">
                     <i class="fa-solid fa-house"></i>
                     <h4>Home</h4>
@@ -79,10 +79,10 @@
                 </div>
             </a>
 
-            <a href="php/customer service.php" title="customer service">
+            <a href="php/Bconfiguracion.php" title="Configuration">
                 <div class="option">
                     <i class="fa-solid fa-gear"></i>
-                    <h4>customer service</h4>
+                    <h4>Configuration</h4>
                 </div>
             </a>
             <br>

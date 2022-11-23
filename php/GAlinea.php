@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SafeMe</title>
+    <title>customer service</title>
     <link rel="icon" href="../images/1.png">
     <link rel="stylesheet" href="css/bitacora.css">
     <link rel="stylesheet" href="css/styles.css">
@@ -45,41 +45,41 @@
 
         <div class="options__menu">	
 
-            <a href="../Amenu.php"class="selected" title="Home">
+            <a href="../Amenu.php" title="Home">
                 <div class="option">
                     <i class="fa-solid fa-house"></i>
                     <h4>Home</h4>
                 </div>
             </a>
 
-            <a href="php/bitacora.php"  title="Log">
+            <a href="bitacora.php"  title="Log">
                 <div class="option">
                     <i class="fa-regular fa-calendar-days"></i>
                     <h4>Log</h4>
                 </div>
             </a>
 
-            <a href="php/Clinea de ayuda.php" title="Helpline">
+            <a href="Clinea de ayuda.php" title="Helpline">
                 <div class="option">
                     <i class="fa-solid fa-hand-holding-medical"></i>
                     <h4>Helpline</h4>
                 </div>
             </a>
 
-            <a href="php/Acrisis.php"  title="Crisis">
+            <a href="Acrisis.php"  title="Crisis">
                 <div class="option">
                     <i class="fa-solid fa-heart-circle-exclamation"></i>
                     <h4>Crisis</h4>
                 </div>
             </a>
-            <a href="php/Bperfil.php"  title="Profile">
+            <a href="Bperfil.php"  title="Profile">
                 <div class="option">
                     <i class="fa-solid fa-user-gear"></i>
                     <h4>Profile</h4>
                 </div>
             </a>
 
-            <a href="php/customer service.php" title="customer service">
+            <a href="customer service.php" class="selected" title="customer service">
                 <div class="option">
                     <i class="fa-solid fa-gear"></i>
                     <h4>customer service</h4>

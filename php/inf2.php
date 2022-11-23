@@ -45,7 +45,41 @@
   </div>
 </div>
 <br>
+<div class="card mb-3 container text-center" style="max-width: 740px;">
+  <div class="row g-0 flex-shrink-0">
+    <div class="col-md-4">
+      <br>
+      <img src="../images/ps.png" class="rounded mx-auto d-block img-thumbnail"  width="150" class="my-2" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">privado</h5>
+        <p class="card-text">Marco</p>
+        <p class="card-text">34 años</p>
+        <p class="card-text">especialista en problemas de ddepresion</p>
+        <p class="card-text">614-234-56-78</p>
+      </div>
+    </div>
+  </div>
+</div>
 <br>
+<div class="card mb-3 container text-center" style="max-width: 740px;">
+  <div class="row g-0 flex-shrink-0">
+    <div class="col-md-4">
+      <br>
+      <img src="../images/ps.png" class="rounded mx-auto d-block img-thumbnail"  width="150" class="my-2" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">privado</h5>
+        <p class="card-text">Marco</p>
+        <p class="card-text">34 años</p>
+        <p class="card-text">especialista en problemas de ddepresion</p>
+        <p class="card-text">614-234-56-78</p>
+      </div>
+    </div>
+  </div>
+</div>
 <br>
 <br>
 <br>
